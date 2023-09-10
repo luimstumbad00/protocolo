@@ -1,6 +1,6 @@
 # SEB & SDB 
 
-##--SEB (Sistema de Encriptado Basico)
+--SEB (Sistema de Encriptado Basico)
 Siguiendo el ejemplo de algunos juegos que usan generación procedular es decir, que se crean de manera aleatoria en base a una serie de algoritmos definidos por los desarrolladores.
 Del mismo modo, sabiendo que las computadoras no son capaces de generar un numero completamente aleatorio, si no que usan numeros seudoaleatorios, seguimos seguir el mismo proceso.
 Una ve con esta base obtenemos 3 numeros pseudoaleatorios, el primero, se trata de el primer digito de los milisegundos de la hora del sistema.
@@ -16,7 +16,7 @@ El cifrado de llos números "o" a el "9", es controlado por el primer digito, es
 Posteriormente se crean dos archivos, uno contiene el mensaje cifrado y otro el codigo de encriptado.
 
 
-##--SDB (Sistema de Desencriptado Basico)
+--SDB (Sistema de Desencriptado Basico)
 Para el descifrado, tomamos cada uno de los números del codigo del decifrado y solamente lo deciframos de la misma manera.
 Recordando que:
 El cifrado de la letra "A", siempre es el mismo.
