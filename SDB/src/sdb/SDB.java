@@ -29,16 +29,18 @@ public class SDB {
             pseudo2 = Character.getNumericValue(num2);
             num3 = codiencri.charAt(2);
             pseudo3 = Character.getNumericValue(num3);
+            
+            
 
-            String mensajeDesencriptado = mensajeEncriptado.replaceAll("\\!", "a");
+            String mensajeDesencriptado = mensajeEncriptado.replaceAll("\\|", "a");
             if (pseudo1 == 1) {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("°", "b");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("!", "c");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(".", "d");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("<", "d");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("#", "e");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("$", "f");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("%", "g");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(",", "h");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll(">", "h");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "i");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "m");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "j");
@@ -49,11 +51,11 @@ public class SDB {
             if (pseudo1 == 2) {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("°", "b");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("!", "m");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(".", "c");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("<", "c");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("#", "l");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("$", "k");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("%", "d");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(",", "j");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll(">", "j");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "i");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "e");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "h");
@@ -64,11 +66,11 @@ public class SDB {
             if (pseudo1 == 3) {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("°", "m");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("!", "h");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(".", "g");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("<", "g");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("#", "b");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("$", "f");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("%", "i");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(",", "c");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll(">", "c");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "e");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "j");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "d");
@@ -79,11 +81,11 @@ public class SDB {
             if (pseudo1 == 4) {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("°", "m");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("!", "l");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(".", "k");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("<", "k");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("#", "j");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("$", "i");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("%", "h");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(",", "g");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll(">", "g");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "f");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "e");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "d");
@@ -93,11 +95,11 @@ public class SDB {
             if (pseudo1 == 5) {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("°", "b");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("!", "e");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(".", "f");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("<", "f");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("#", "i");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("$", "j");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("%", "l");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(",", "m");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll(">", "m");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "k");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "h");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "g");
@@ -108,11 +110,11 @@ public class SDB {
             if (pseudo1 == 6) {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("°", "g");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("!", "f");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(".", "e");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("<", "e");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("#", "d");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("$", "c");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("%", "b");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(",", "h");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll(">", "h");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "i");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "j");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "k");
@@ -123,11 +125,11 @@ public class SDB {
             if (pseudo1 == 7) {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("°", "g");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("!", "e");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(".", "f");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("<", "f");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("#", "h");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("$", "i");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("%", "d");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(",", "j");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll(">", "j");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "k");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "l");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "c");
@@ -138,11 +140,11 @@ public class SDB {
             if (pseudo1 == 8) {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("°", "b");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("!", "i");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(".", "d");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("<", "d");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("#", "c");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("$", "h");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("%", "e");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(",", "j");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll(">", "j");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "g");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "f");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "m");
@@ -153,11 +155,11 @@ public class SDB {
             if (pseudo1 == 9) {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("°", "b");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("!", "c");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(".", "d");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("<", "d");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("#", "e");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("$", "f");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("%", "g");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll(",", "m");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll(">", "m");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "l");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "k");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "j");
@@ -424,8 +426,9 @@ public class SDB {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("P", "9");
 
             }
-
-            System.out.println("Mensaje desencriptado: " + mensajeDesencriptado);
+            
+            String Descenriptado = mensajeDesencriptado.substring(0, mensajeDesencriptado.length()-1);
+            System.out.println("Mensaje desencriptado: " + Descenriptado);
         } catch (IOException e) {
             e.printStackTrace();
         }
