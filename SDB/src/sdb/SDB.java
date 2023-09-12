@@ -44,7 +44,7 @@ public class SDB {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "i");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "m");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "j");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\?", "k");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("K", "k");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("'", "l");
 
             }
@@ -59,7 +59,7 @@ public class SDB {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "i");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "e");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "h");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\?", "f");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("K", "f");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("'", "g");
 
             }
@@ -74,7 +74,7 @@ public class SDB {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "e");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "j");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "d");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\?", "k");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("K", "k");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("'", "l");
 
             }
@@ -89,7 +89,7 @@ public class SDB {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "f");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "e");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "d");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\?", "c");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("K", "c");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("'", "b");
             }
             if (pseudo1 == 5) {
@@ -103,7 +103,7 @@ public class SDB {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "k");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "h");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "g");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\?", "d");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("K", "d");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("'", "c");
 
             }
@@ -118,7 +118,7 @@ public class SDB {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "i");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "j");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "k");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\?", "l");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("K", "l");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("'", "m");
 
             }
@@ -133,7 +133,7 @@ public class SDB {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "k");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "l");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "c");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\?", "m");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("K", "m");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("'", "b");
 
             }
@@ -148,7 +148,7 @@ public class SDB {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "g");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "f");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "m");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\?", "k");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("K", "k");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("'", "l");
 
             }
@@ -163,7 +163,7 @@ public class SDB {
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\(", "l");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\)", "k");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("=", "j");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("\\?", "i");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("K", "i");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("'", "h");
 
             }
