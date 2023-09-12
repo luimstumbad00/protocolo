@@ -401,29 +401,29 @@ public class SDB {
 
             }
             if (pseudo3 == 8) {
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("X", "0");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("A", "1");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("G", "0");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("E", "1");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("D", "2");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("N", "3");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("M", "4");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("Z", "5");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("R", "6");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("E", "7");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("C", "3");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("F", "4");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("H", "5");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("B", "6");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("J", "7");
                 mensajeDesencriptado = mensajeDesencriptado.replaceAll("I", "8");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("T", "9");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("A", "9");
 
             }
             if (pseudo3 == 9) {
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("U", "0");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("G", "1");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("T", "2");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("Y", "3");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("M", "4");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("A", "5");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("L", "6");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("R", "7");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("E", "8");
-                mensajeDesencriptado = mensajeDesencriptado.replaceAll("P", "9");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("I", "0");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("D", "1");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("C", "2");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("A", "3");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("B", "4");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("F", "5");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("E", "6");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("H", "7");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("J", "8");
+                mensajeDesencriptado = mensajeDesencriptado.replaceAll("G", "9");
 
             }
             

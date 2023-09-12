@@ -33,7 +33,6 @@ public class SEB {
         String ncifrado2;
         String ncifrado3;
         String numero3;
-
         if (miliseg > 10) {
             digito1 = String.valueOf(miliseg);
             digito2 = String.valueOf(miliseg);
@@ -463,29 +462,29 @@ public class SEB {
 
         }
         if (pseudo3 == 8) {
-            encriptado = encriptado.replaceAll("0", "X");
-            encriptado = encriptado.replaceAll("1", "A");
+            encriptado = encriptado.replaceAll("0", "G");
+            encriptado = encriptado.replaceAll("1", "E");
             encriptado = encriptado.replaceAll("2", "D");
-            encriptado = encriptado.replaceAll("3", "N");
-            encriptado = encriptado.replaceAll("4", "M");
-            encriptado = encriptado.replaceAll("5", "Z");
-            encriptado = encriptado.replaceAll("6", "R");
-            encriptado = encriptado.replaceAll("7", "E");
+            encriptado = encriptado.replaceAll("3", "C");
+            encriptado = encriptado.replaceAll("4", "F");
+            encriptado = encriptado.replaceAll("5", "H");
+            encriptado = encriptado.replaceAll("6", "B");
+            encriptado = encriptado.replaceAll("7", "J");
             encriptado = encriptado.replaceAll("8", "I");
-            encriptado = encriptado.replaceAll("9", "T");
+            encriptado = encriptado.replaceAll("9", "A");
 
         }
         if (pseudo3 == 9) {
-            encriptado = encriptado.replaceAll("0", "U");
-            encriptado = encriptado.replaceAll("1", "G");
-            encriptado = encriptado.replaceAll("2", "T");
-            encriptado = encriptado.replaceAll("3", "Y");
-            encriptado = encriptado.replaceAll("4", "M");
-            encriptado = encriptado.replaceAll("5", "A");
-            encriptado = encriptado.replaceAll("6", "L");
-            encriptado = encriptado.replaceAll("7", "R");
-            encriptado = encriptado.replaceAll("8", "E");
-            encriptado = encriptado.replaceAll("9", "P");
+            encriptado = encriptado.replaceAll("0", "I");
+            encriptado = encriptado.replaceAll("1", "D");
+            encriptado = encriptado.replaceAll("2", "C");
+            encriptado = encriptado.replaceAll("3", "A");
+            encriptado = encriptado.replaceAll("4", "B");
+            encriptado = encriptado.replaceAll("5", "F");
+            encriptado = encriptado.replaceAll("6", "E");
+            encriptado = encriptado.replaceAll("7", "H");
+            encriptado = encriptado.replaceAll("8", "J");
+            encriptado = encriptado.replaceAll("9", "G");
 
         }
 
