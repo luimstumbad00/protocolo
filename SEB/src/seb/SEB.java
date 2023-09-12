@@ -230,7 +230,7 @@ public class SEB {
 
         }
         if (pseudo2 == 1) {
-            encriptado = encriptado.replaceAll("[Nn]", "¡");
+            encriptado = encriptado.replaceAll("[Nn]", "N");
             encriptado = encriptado.replaceAll("[Oo]", "L");
             encriptado = encriptado.replaceAll("[Pp]", "¨");
             encriptado = encriptado.replaceAll("[Qq]", "´");
@@ -245,7 +245,7 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Zz]", ";");
         }
         if (pseudo2 == 2) {
-            encriptado = encriptado.replaceAll("[Uu]", "¡");
+            encriptado = encriptado.replaceAll("[Uu]", "N");
             encriptado = encriptado.replaceAll("[Ss]", "L");
             encriptado = encriptado.replaceAll("[Rr]", "¨");
             encriptado = encriptado.replaceAll("[Tt]", "´");
@@ -260,7 +260,7 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Nn]", ";");
         }
         if (pseudo2 == 3) {
-            encriptado = encriptado.replaceAll("[Zz]", "¡");
+            encriptado = encriptado.replaceAll("[Zz]", "N");
             encriptado = encriptado.replaceAll("[Yy]", "L");
             encriptado = encriptado.replaceAll("[Xx]", "¨");
             encriptado = encriptado.replaceAll("[Ww]", "´");
@@ -276,7 +276,7 @@ public class SEB {
 
         }
         if (pseudo2 == 4) {
-            encriptado = encriptado.replaceAll("[Oo]", "¡");
+            encriptado = encriptado.replaceAll("[Oo]", "N");
             encriptado = encriptado.replaceAll("[Pp]", "L");
             encriptado = encriptado.replaceAll("[Ss]", "¨");
             encriptado = encriptado.replaceAll("[Tt]", "´");
@@ -292,7 +292,7 @@ public class SEB {
 
         }
         if (pseudo2 == 5) {
-            encriptado = encriptado.replaceAll("[Ss]", "¡");
+            encriptado = encriptado.replaceAll("[Ss]", "N");
             encriptado = encriptado.replaceAll("[Tt]", "L");
             encriptado = encriptado.replaceAll("[Oo]", "¨");
             encriptado = encriptado.replaceAll("[Nn]", "´");
@@ -308,7 +308,7 @@ public class SEB {
 
         }
         if (pseudo2 == 6) {
-            encriptado = encriptado.replaceAll("[Nn]", "¡");
+            encriptado = encriptado.replaceAll("[Nn]", "N");
             encriptado = encriptado.replaceAll("[Ss]", "L");
             encriptado = encriptado.replaceAll("[Rr]", "¨");
             encriptado = encriptado.replaceAll("[Tt]", "´");
@@ -324,7 +324,7 @@ public class SEB {
 
         }
         if (pseudo2 == 7) {
-            encriptado = encriptado.replaceAll("[Vv]", "¡");
+            encriptado = encriptado.replaceAll("[Vv]", "N");
             encriptado = encriptado.replaceAll("[Ww]", "L");
             encriptado = encriptado.replaceAll("[Xx]", "¨");
             encriptado = encriptado.replaceAll("[Nn]", "´");
@@ -340,7 +340,7 @@ public class SEB {
 
         }
         if (pseudo2 == 8) {
-            encriptado = encriptado.replaceAll("[Uu]", "¡");
+            encriptado = encriptado.replaceAll("[Uu]", "N");
             encriptado = encriptado.replaceAll("[Tt]", "L");
             encriptado = encriptado.replaceAll("[Rr]", "¨");
             encriptado = encriptado.replaceAll("[Qq]", "´");
@@ -356,7 +356,7 @@ public class SEB {
 
         }
         if (pseudo2 == 9) {
-            encriptado = encriptado.replaceAll("[Nn]", "¡");
+            encriptado = encriptado.replaceAll("[Nn]", "N");
             encriptado = encriptado.replaceAll("[Qq]", "L");
             encriptado = encriptado.replaceAll("[Pp]", "¨");
             encriptado = encriptado.replaceAll("[Oo]", "´");
