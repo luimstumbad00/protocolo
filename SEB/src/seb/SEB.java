@@ -94,13 +94,13 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Bb]", "°");
             encriptado = encriptado.replaceAll("[Cc]", "M");
             encriptado = encriptado.replaceAll("[Dd]", "<");
-            encriptado = encriptado.replaceAll("[Ee]", "#");
+            encriptado = encriptado.replaceAll("[Ee]", "T");
             encriptado = encriptado.replaceAll("[Ff]", "$");
             encriptado = encriptado.replaceAll("[Gg]", "%");
             encriptado = encriptado.replaceAll("[Hh]", ">");
             encriptado = encriptado.replaceAll("[Ii]", "\\(");
             encriptado = encriptado.replaceAll("[Jj]", "\\)");
-            encriptado = encriptado.replaceAll("[Kk]", "=");
+            encriptado = encriptado.replaceAll("[Kk]", "U");
             encriptado = encriptado.replaceAll("[Ll]", "\\?");
             encriptado = encriptado.replaceAll("[Mm]", "'");
         }
@@ -109,13 +109,13 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Bb]", "°");
             encriptado = encriptado.replaceAll("[Mm]", "M");
             encriptado = encriptado.replaceAll("[Cc]", "<");
-            encriptado = encriptado.replaceAll("[Ll]", "#");
+            encriptado = encriptado.replaceAll("[Ll]", "T");
             encriptado = encriptado.replaceAll("[Kk]", "$");
             encriptado = encriptado.replaceAll("[Dd]", "%");
             encriptado = encriptado.replaceAll("[Jj]", ">");
             encriptado = encriptado.replaceAll("[Ii]", "\\(");
             encriptado = encriptado.replaceAll("[Ee]", "\\)");
-            encriptado = encriptado.replaceAll("[Hh]", "=");
+            encriptado = encriptado.replaceAll("[Hh]", "U");
             encriptado = encriptado.replaceAll("[Ff]", "K");
             encriptado = encriptado.replaceAll("[Gg]", "'");
         }
@@ -124,13 +124,13 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Mm]", "°");
             encriptado = encriptado.replaceAll("[Hh]", "M");
             encriptado = encriptado.replaceAll("[Gg]", "<");
-            encriptado = encriptado.replaceAll("[Bb]", "#");
+            encriptado = encriptado.replaceAll("[Bb]", "T");
             encriptado = encriptado.replaceAll("[Ff]", "$");
             encriptado = encriptado.replaceAll("[Ii]", "%");
             encriptado = encriptado.replaceAll("[Cc]", ">");
             encriptado = encriptado.replaceAll("[Ee]", "\\(");
             encriptado = encriptado.replaceAll("[Jj]", "\\)");
-            encriptado = encriptado.replaceAll("[Dd]", "=");
+            encriptado = encriptado.replaceAll("[Dd]", "U");
             encriptado = encriptado.replaceAll("[Kk]", "K");
             encriptado = encriptado.replaceAll("[Ll]", "'");
         }
@@ -139,13 +139,13 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Mm]", "°");
             encriptado = encriptado.replaceAll("[Ll]", "M");
             encriptado = encriptado.replaceAll("[Kk]", "<");
-            encriptado = encriptado.replaceAll("[Jj]", "#");
+            encriptado = encriptado.replaceAll("[Jj]", "T");
             encriptado = encriptado.replaceAll("[Ii]", "$");
             encriptado = encriptado.replaceAll("[Hh]", "%");
             encriptado = encriptado.replaceAll("[Gg]", ">");
             encriptado = encriptado.replaceAll("[Ff]", "\\(");
             encriptado = encriptado.replaceAll("[Ee]", "\\)");
-            encriptado = encriptado.replaceAll("[Dd]", "=");
+            encriptado = encriptado.replaceAll("[Dd]", "U");
             encriptado = encriptado.replaceAll("[Cc]", "K");
             encriptado = encriptado.replaceAll("[Bb]", "'");
         }
@@ -154,13 +154,13 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Bb]", "°");
             encriptado = encriptado.replaceAll("[Ee]", "M");
             encriptado = encriptado.replaceAll("[Ff]", "<");
-            encriptado = encriptado.replaceAll("[Ii]", "#");
+            encriptado = encriptado.replaceAll("[Ii]", "T");
             encriptado = encriptado.replaceAll("[Jj]", "$");
             encriptado = encriptado.replaceAll("[Il]", "%");
             encriptado = encriptado.replaceAll("[Mm]", ">");
             encriptado = encriptado.replaceAll("[Kk]", "\\(");
             encriptado = encriptado.replaceAll("[Hh]", "\\)");
-            encriptado = encriptado.replaceAll("[Gg]", "=");
+            encriptado = encriptado.replaceAll("[Gg]", "U");
             encriptado = encriptado.replaceAll("[Dd]", "K");
             encriptado = encriptado.replaceAll("[Cc]", "'");
 
@@ -170,13 +170,13 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Gg]", "°");
             encriptado = encriptado.replaceAll("[Ff]", "M");
             encriptado = encriptado.replaceAll("[Ee]", "<");
-            encriptado = encriptado.replaceAll("[Dd]", "#");
+            encriptado = encriptado.replaceAll("[Dd]", "T");
             encriptado = encriptado.replaceAll("[Cc]", "$");
             encriptado = encriptado.replaceAll("[Bb]", "%");
             encriptado = encriptado.replaceAll("[Hh]", ">");
             encriptado = encriptado.replaceAll("[Ii]", "\\(");
             encriptado = encriptado.replaceAll("[Jj]", "\\)");
-            encriptado = encriptado.replaceAll("[Kk]", "=");
+            encriptado = encriptado.replaceAll("[Kk]", "U");
             encriptado = encriptado.replaceAll("[Ll]", "K");
             encriptado = encriptado.replaceAll("[Mm]", "'");
 
@@ -186,13 +186,13 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Gg]", "°");
             encriptado = encriptado.replaceAll("[Ee]", "M");
             encriptado = encriptado.replaceAll("[Ff]", "<");
-            encriptado = encriptado.replaceAll("[Hh]", "#");
+            encriptado = encriptado.replaceAll("[Hh]", "T");
             encriptado = encriptado.replaceAll("[Ii]", "$");
             encriptado = encriptado.replaceAll("[Dd]", "%");
             encriptado = encriptado.replaceAll("[Jj]", ">");
             encriptado = encriptado.replaceAll("[Kk]", "\\(");
             encriptado = encriptado.replaceAll("[Ll]", "\\)");
-            encriptado = encriptado.replaceAll("[Cc]", "=");
+            encriptado = encriptado.replaceAll("[Cc]", "U");
             encriptado = encriptado.replaceAll("[Mm]", "K");
             encriptado = encriptado.replaceAll("[Bb]", "'");
 
@@ -202,13 +202,13 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Bb]", "°");
             encriptado = encriptado.replaceAll("[Ii]", "M");
             encriptado = encriptado.replaceAll("[Dd]", "<");
-            encriptado = encriptado.replaceAll("[Cc]", "#");
+            encriptado = encriptado.replaceAll("[Cc]", "T");
             encriptado = encriptado.replaceAll("[Hh]", "$");
             encriptado = encriptado.replaceAll("[Ee]", "%");
             encriptado = encriptado.replaceAll("[Jj]", ">");
             encriptado = encriptado.replaceAll("[Gg]", "\\(");
             encriptado = encriptado.replaceAll("[Ff]", "\\)");
-            encriptado = encriptado.replaceAll("[Mm]", "=");
+            encriptado = encriptado.replaceAll("[Mm]", "U");
             encriptado = encriptado.replaceAll("[Kk]", "K");
             encriptado = encriptado.replaceAll("[Ll]", "'");
 
@@ -218,13 +218,13 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Bb]", "°");
             encriptado = encriptado.replaceAll("[Cc]", "M");
             encriptado = encriptado.replaceAll("[Dd]", "<");
-            encriptado = encriptado.replaceAll("[Ee]", "#");
+            encriptado = encriptado.replaceAll("[Ee]", "T");
             encriptado = encriptado.replaceAll("[Ff]", "$");
             encriptado = encriptado.replaceAll("[Gg]", "%");
             encriptado = encriptado.replaceAll("[Mm]", ">");
             encriptado = encriptado.replaceAll("[Ll]", "\\(");
             encriptado = encriptado.replaceAll("[Lk]", "\\)");
-            encriptado = encriptado.replaceAll("[Jj]", "=");
+            encriptado = encriptado.replaceAll("[Jj]", "U");
             encriptado = encriptado.replaceAll("[Ii]", "K");
             encriptado = encriptado.replaceAll("[Hh]", "'");
 
@@ -234,45 +234,45 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Oo]", "L");
             encriptado = encriptado.replaceAll("[Pp]", "¨");
             encriptado = encriptado.replaceAll("[Qq]", "´");
-            encriptado = encriptado.replaceAll("[Rr]", "\\+");
-            encriptado = encriptado.replaceAll("[Ss]", "\\*");
+            encriptado = encriptado.replaceAll("[Rr]", "Q");
+            encriptado = encriptado.replaceAll("[Ss]", "R");
             encriptado = encriptado.replaceAll("[Tt]", "\\{");
             encriptado = encriptado.replaceAll("[Uu]", "\\}");
             encriptado = encriptado.replaceAll("[Vv]", "\\[");
             encriptado = encriptado.replaceAll("[Ww]", "\\]");
-            encriptado = encriptado.replaceAll("[Xx]", "-");
-            encriptado = encriptado.replaceAll("[Yy]", ":");
-            encriptado = encriptado.replaceAll("[Zz]", ";");
+            encriptado = encriptado.replaceAll("[Xx]", "P");
+            encriptado = encriptado.replaceAll("[Yy]", "O");
+            encriptado = encriptado.replaceAll("[Zz]", "S");
         }
         if (pseudo2 == 2) {
             encriptado = encriptado.replaceAll("[Uu]", "N");
             encriptado = encriptado.replaceAll("[Ss]", "L");
             encriptado = encriptado.replaceAll("[Rr]", "¨");
             encriptado = encriptado.replaceAll("[Tt]", "´");
-            encriptado = encriptado.replaceAll("[Vv]", "\\+");
-            encriptado = encriptado.replaceAll("[Qq]", "\\*");
+            encriptado = encriptado.replaceAll("[Vv]", "Q");
+            encriptado = encriptado.replaceAll("[Qq]", "R");
             encriptado = encriptado.replaceAll("[Ww]", "\\{");
             encriptado = encriptado.replaceAll("[Pp]", "\\}");
             encriptado = encriptado.replaceAll("[Yy]", "\\[");
             encriptado = encriptado.replaceAll("[Xx]", "\\]");
-            encriptado = encriptado.replaceAll("[Oo]", "-");
-            encriptado = encriptado.replaceAll("[Zz]", ":");
-            encriptado = encriptado.replaceAll("[Nn]", ";");
+            encriptado = encriptado.replaceAll("[Oo]", "P");
+            encriptado = encriptado.replaceAll("[Zz]", "O");
+            encriptado = encriptado.replaceAll("[Nn]", "S");
         }
         if (pseudo2 == 3) {
             encriptado = encriptado.replaceAll("[Zz]", "N");
             encriptado = encriptado.replaceAll("[Yy]", "L");
             encriptado = encriptado.replaceAll("[Xx]", "¨");
             encriptado = encriptado.replaceAll("[Ww]", "´");
-            encriptado = encriptado.replaceAll("[Vv]", "\\+");
-            encriptado = encriptado.replaceAll("[Uu]", "\\*");
+            encriptado = encriptado.replaceAll("[Vv]", "Q");
+            encriptado = encriptado.replaceAll("[Uu]", "R");
             encriptado = encriptado.replaceAll("[Tt]", "\\{");
             encriptado = encriptado.replaceAll("[Ss]", "\\}");
             encriptado = encriptado.replaceAll("[Rr]", "\\[");
             encriptado = encriptado.replaceAll("[Qq]", "\\]");
-            encriptado = encriptado.replaceAll("[Pp]", "-");
-            encriptado = encriptado.replaceAll("[Oo]", ":");
-            encriptado = encriptado.replaceAll("[Nn]", ";");
+            encriptado = encriptado.replaceAll("[Pp]", "P");
+            encriptado = encriptado.replaceAll("[Oo]", "O");
+            encriptado = encriptado.replaceAll("[Nn]", "S");
 
         }
         if (pseudo2 == 4) {
@@ -280,15 +280,15 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Pp]", "L");
             encriptado = encriptado.replaceAll("[Ss]", "¨");
             encriptado = encriptado.replaceAll("[Tt]", "´");
-            encriptado = encriptado.replaceAll("[Ww]", "\\+");
-            encriptado = encriptado.replaceAll("[Xx]", "\\*");
+            encriptado = encriptado.replaceAll("[Ww]", "Q");
+            encriptado = encriptado.replaceAll("[Xx]", "R");
             encriptado = encriptado.replaceAll("[Zz]", "\\{");
             encriptado = encriptado.replaceAll("[Yy]", "\\}");
             encriptado = encriptado.replaceAll("[Vv]", "\\[");
             encriptado = encriptado.replaceAll("[Uu]", "\\]");
-            encriptado = encriptado.replaceAll("[Rr]", "-");
-            encriptado = encriptado.replaceAll("[Qq]", ":");
-            encriptado = encriptado.replaceAll("[Nn]", ";");
+            encriptado = encriptado.replaceAll("[Rr]", "P");
+            encriptado = encriptado.replaceAll("[Qq]", "O");
+            encriptado = encriptado.replaceAll("[Nn]", "S");
 
         }
         if (pseudo2 == 5) {
@@ -296,15 +296,15 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Tt]", "L");
             encriptado = encriptado.replaceAll("[Oo]", "¨");
             encriptado = encriptado.replaceAll("[Nn]", "´");
-            encriptado = encriptado.replaceAll("[Rr]", "\\+");
-            encriptado = encriptado.replaceAll("[Qq]", "\\*");
+            encriptado = encriptado.replaceAll("[Rr]", "Q");
+            encriptado = encriptado.replaceAll("[Qq]", "R");
             encriptado = encriptado.replaceAll("[Pp]", "\\{");
             encriptado = encriptado.replaceAll("[Zz]", "\\}");
             encriptado = encriptado.replaceAll("[Yy]", "\\[");
             encriptado = encriptado.replaceAll("[Vv]", "\\]");
-            encriptado = encriptado.replaceAll("[Uu]", "-");
-            encriptado = encriptado.replaceAll("[Ww]", ":");
-            encriptado = encriptado.replaceAll("[Xx]", ";");
+            encriptado = encriptado.replaceAll("[Uu]", "P");
+            encriptado = encriptado.replaceAll("[Ww]", "O");
+            encriptado = encriptado.replaceAll("[Xx]", "S");
 
         }
         if (pseudo2 == 6) {
@@ -312,15 +312,15 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Ss]", "L");
             encriptado = encriptado.replaceAll("[Rr]", "¨");
             encriptado = encriptado.replaceAll("[Tt]", "´");
-            encriptado = encriptado.replaceAll("[Ww]", "\\+");
-            encriptado = encriptado.replaceAll("[Oo]", "\\*");
+            encriptado = encriptado.replaceAll("[Ww]", "Q");
+            encriptado = encriptado.replaceAll("[Oo]", "R");
             encriptado = encriptado.replaceAll("[Qq]", "\\{");
             encriptado = encriptado.replaceAll("[Vv]", "\\}");
             encriptado = encriptado.replaceAll("[Uu]", "\\[");
             encriptado = encriptado.replaceAll("[Pp]", "\\]");
-            encriptado = encriptado.replaceAll("[Yy]", "-");
-            encriptado = encriptado.replaceAll("[Xx]", ":");
-            encriptado = encriptado.replaceAll("[Zz]", ";");
+            encriptado = encriptado.replaceAll("[Yy]", "P");
+            encriptado = encriptado.replaceAll("[Xx]", "O");
+            encriptado = encriptado.replaceAll("[Zz]", "S");
 
         }
         if (pseudo2 == 7) {
@@ -328,15 +328,15 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Ww]", "L");
             encriptado = encriptado.replaceAll("[Xx]", "¨");
             encriptado = encriptado.replaceAll("[Nn]", "´");
-            encriptado = encriptado.replaceAll("[Zz]", "\\+");
-            encriptado = encriptado.replaceAll("[Qq]", "\\*");
+            encriptado = encriptado.replaceAll("[Zz]", "Q");
+            encriptado = encriptado.replaceAll("[Qq]", "R");
             encriptado = encriptado.replaceAll("[Pp]", "\\{");
             encriptado = encriptado.replaceAll("[Oo]", "\\}");
             encriptado = encriptado.replaceAll("[Yy]", "\\[");
             encriptado = encriptado.replaceAll("[Tt]", "\\]");
-            encriptado = encriptado.replaceAll("[Uu]", "-");
-            encriptado = encriptado.replaceAll("[Ss]", ":");
-            encriptado = encriptado.replaceAll("[Rr]", ";");
+            encriptado = encriptado.replaceAll("[Uu]", "P");
+            encriptado = encriptado.replaceAll("[Ss]", "O");
+            encriptado = encriptado.replaceAll("[Rr]", "S");
 
         }
         if (pseudo2 == 8) {
@@ -344,15 +344,15 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Tt]", "L");
             encriptado = encriptado.replaceAll("[Rr]", "¨");
             encriptado = encriptado.replaceAll("[Qq]", "´");
-            encriptado = encriptado.replaceAll("[Ss]", "\\+");
-            encriptado = encriptado.replaceAll("[Vv]", "\\*");
+            encriptado = encriptado.replaceAll("[Ss]", "Q");
+            encriptado = encriptado.replaceAll("[Vv]", "R");
             encriptado = encriptado.replaceAll("[Pp]", "\\{");
             encriptado = encriptado.replaceAll("[Oo]", "\\}");
             encriptado = encriptado.replaceAll("[Nn]", "\\[");
             encriptado = encriptado.replaceAll("[Ww]", "\\]");
-            encriptado = encriptado.replaceAll("[Zz]", "-");
-            encriptado = encriptado.replaceAll("[Yy]", ":");
-            encriptado = encriptado.replaceAll("[Xx]", ";");
+            encriptado = encriptado.replaceAll("[Zz]", "P");
+            encriptado = encriptado.replaceAll("[Yy]", "O");
+            encriptado = encriptado.replaceAll("[Xx]", "S");
 
         }
         if (pseudo2 == 9) {
@@ -360,15 +360,15 @@ public class SEB {
             encriptado = encriptado.replaceAll("[Qq]", "L");
             encriptado = encriptado.replaceAll("[Pp]", "¨");
             encriptado = encriptado.replaceAll("[Oo]", "´");
-            encriptado = encriptado.replaceAll("[Uu]", "\\+");
-            encriptado = encriptado.replaceAll("[Tt]", "\\*");
+            encriptado = encriptado.replaceAll("[Uu]", "Q");
+            encriptado = encriptado.replaceAll("[Tt]", "R");
             encriptado = encriptado.replaceAll("[Ww]", "\\{");
             encriptado = encriptado.replaceAll("[Vv]", "\\}");
             encriptado = encriptado.replaceAll("[Ss]", "\\[");
             encriptado = encriptado.replaceAll("[Yy]", "\\]");
-            encriptado = encriptado.replaceAll("[Zz]", "-");
-            encriptado = encriptado.replaceAll("[Xx]", ":");
-            encriptado = encriptado.replaceAll("[Rr]", ";");
+            encriptado = encriptado.replaceAll("[Zz]", "P");
+            encriptado = encriptado.replaceAll("[Xx]", "O");
+            encriptado = encriptado.replaceAll("[Rr]", "S");
 
         }
         if (pseudo3 == 1) {
